@@ -180,7 +180,7 @@ margin: 10px;
 }
 
 .navbar{
-    height: 100px;
+    height: 60px;
 }
 
 
@@ -213,6 +213,8 @@ footer{
 .aboutus-cont > *{
 
     padding: 20px;
+
+    font-size: small;
 
 }
 }
